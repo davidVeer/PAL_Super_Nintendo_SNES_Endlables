@@ -20,7 +20,8 @@ The download links download a zip file which includes:
 * a Print-ready PDF file with all the games currently supported in the chosen customisation.
 * folder containing all individual lables as PNGs. These can be used to print out lables for just the games you want or have.
 
-> [!IMPORTANT] the zip containing both the PDF file and images has not yet been uploaded 
+> [!IMPORTANT] 
+> The zip containing both the PDF file and images has not yet been uploaded 
 
 For a list of all current included games for each link, see the [Supported Games](#supported-games) section.
 
