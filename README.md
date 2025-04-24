@@ -1,42 +1,8 @@
 # Pal Super Nintendo endlables
 An open source customisable endlable for Super Nintendo game cartridges
 
+This repository aims to provide a platform for those who are looking for a nice "straight out of the box" print ready set of PAL Super nintendo end lables. Aswell as those looking to completely customise their end lable to their own style.  
 
-## Download printing documents
-
-if all you're looking for is a printable PDF file containing all current lables.
-Go to the [Download links](#download-links) section and click the link from the format you enjoy the most.
-
-## customise lable
-
-If you own a game that is not on this list, or, you prefer some features to be shown while some others are hidden. You might have to add a game logo manually or edit the game lable template a little bit. This section aims to show how this works.
-
-### prerequisites
-
-In order to follow this tutorial editing software capable of editting .XCF files needs to be installed on your Desktop or laptop. for this tutorial, the software used is GIMP. 
-
-### downloading the .XCF file
-In order to download the .XCF file, all you have to do is follow [this link](#lable-customisation-file-xcf-download) to download the file, along with a folder containing all game logos, directly.  
-
-### adding Game logos
-
-Assuming you have found an image of the logo from the game you'd like to add. the process is relatively straight forward. Drag the image into the software and make sure the the image is in the Game logo layer group.
-
-![Importing image gif](/Step-by-step/GIF/Adding_PNG_To_Game_Logo_List.gif)
-
-It is possible you might want to resize the image if it is too large to fit into the lable. If this is the case, select the Scale or Resize tool and select the image, click the corner of the image and resize until is (somewhat) fits into the lable. Adjust as needed.
-![Importing image gif](/Step-by-step/GIF/Resising_Game_Logo_To_Fit_Lable.gif)
-
-### switching out game lables
-
-If you want to work on a specific game lable or export the current customisation to PNG you can switch out the current Logo for a different one relatively simply. Make sure the Game_Logos layer group is unfolded. After that, all that needs to happen is to hide the layer containing the current logo, and show the layer containing the game logo you want to work on.
-
-![Importing image gif](/Step-by-step/GIF/Showing_different_Game_Lables.gif)
-
-### Selecting Special Backgrounds
-If you want to switch out the background for a lable. Make sure the Game_Backgrounds layer group is unfolded. Next, hide all selected layers until the centre of the the lable is blank. Then, show the background you want to select for your lable. 
-
-![Importing image gif](/Step-by-step/GIF/Selecting_Special_Background.gif)
 
 ## Download links
 
@@ -52,7 +18,7 @@ For a list of all current included games for each link, see the [Supported Games
 ### All black endlables (print Download)
 
 > Below is the black lable for Donkey Kong country, to provide a visual example. This lable is, ofcourse, also part of this package.
-![Black lable example, Donkey Kong Country](/Complete_Endlables/Black_Lables/Pal_Black_Endlable_Donkey_Kong_Country.png)
+![Black lable example, Donkey Kong Country](/README_Assets/Pal_Black_Endlable_Donkey_Kong_Country.png)
 
 The black lables contain:
 * A black background.
@@ -64,7 +30,7 @@ Download link for the all-black lables: _**[Download Files]()**_ (Print-ready)
 ### Basic Endlables (print Download)
 
 > Below is the Basic lable for Tetris Attack, to provide a visual example. This lable is, ofcourse, also part of this package.
-![Basic lable example, Tetris Attack](/Complete_Endlables/Basic_Lables/Pal_Basic_Endlable_Tetris_Attack.png)
+![Basic lable example, Tetris Attack](/README_Assets/Pal_Basic_Endlable_Tetris_Attack.png)
 
 The Basic lables contain:
 * A black background.
@@ -78,7 +44,7 @@ Download link for the Basic lables: _**[Download Files]()**_ (Print-ready)
 ### special background endlables (print Download)
 
 > Below is the Special background lable for The legend of Zelda: A link to the past, to provide a visual example. This lable is, ofcourse, also part of this package.
-![special background lable example, The legend of Zelda: A link to the past](/Complete_Endlables/Special_Background_Lables/Pal_Special_Background_Endlable_Link_To_The_Past.png)
+![special background lable example, The legend of Zelda: A link to the past](/README_Assets/Pal_Special_Background_Endlable_Link_To_The_Past.png)
 
 The Special background lables contain:
 * A colored or image game background.
@@ -98,6 +64,38 @@ the download link for lable customisation contains:
 * A folder containing all individual logos as PNGs.
 
 Download link for lable customisation: _**[Download Files]()**_ (.XCF) 
+## customise lable
+
+If you own a game that is not on this list, or, you prefer some features to be shown while some others are hidden. You might have to add a game logo manually or edit the game lable template a little bit. This section aims to show how this works.
+
+### prerequisites
+
+In order to follow this tutorial editing software capable of editting .XCF files needs to be installed on your Desktop or laptop. for this tutorial, the software used is GIMP. 
+
+### downloading the .XCF file
+In order to download the .XCF file, all you have to do is follow [this link](#lable-customisation-file-xcf-download) to download the file, along with a folder containing all game logos, directly.  
+
+### adding Game logos
+
+Assuming you have found an image of the logo from the game you'd like to add. the process is relatively straight forward. Drag the image into the software and make sure the the image is in the Game logo layer group.
+
+![Importing image gif](/README_Assets/Step-by-step/GIF/Adding_PNG_To_Game_Logo_List.gif)
+
+It is possible you might want to resize the image if it is too large to fit into the lable. If this is the case, select the Scale or Resize tool and select the image, click the corner of the image and resize until is (somewhat) fits into the lable. Adjust as needed.
+![Importing image gif](/README_Assets/Step-by-step/GIF/Resising_Game_Logo_To_Fit_Lable.gif)
+
+### switching out game lables
+
+If you want to work on a specific game lable or export the current customisation to PNG you can switch out the current Logo for a different one relatively simply. Make sure the Game_Logos layer group is unfolded. After that, all that needs to happen is to hide the layer containing the current logo, and show the layer containing the game logo you want to work on.
+
+![Importing image gif](/README_Assets/Step-by-step/GIF/Showing_different_Game_Lables.gif)
+
+### Selecting Special Backgrounds
+If you want to switch out the background for a lable. Make sure the Game_Backgrounds layer group is unfolded. Next, hide all selected layers until the centre of the the lable is blank. Then, show the background you want to select for your lable. 
+
+![Importing image gif](/README_Assets/Step-by-step/GIF/Selecting_Special_Background.gif)
+
+
 
 ## Supported Games
 
