@@ -10,9 +10,18 @@ Go to the [Download links](#download-links) section and click the link from the 
 
 ### customise lable
 
-> [!WARNING]
-> this section is not finished yet.
+If you own a game that is not on this list, or, you prefer some features to be shown while some others are hidden. You might have to add a game logo manually or edit the game lable template a little bit. This section aims to show how this works.
 
+#### prerequisites
+
+in order to follow this tutorial editing software capable of editting .XCF files needs to be installed on your Desktop or laptop. for this tutorial, the software used is GIMP. 
+
+#### downloading the .XCF file
+in order to download the .XCF file, all you have to do is follow [this link](#lable-customisation-file-xcf-download) to download the file, along with a folder containing all game logos, directly.  
+
+#### adding Game logos
+
+assuming you have found an image of the logo from the game you'd like to add. the process is relatively straight forward. 
 
 ## Download links
 
@@ -34,7 +43,7 @@ The black lables contain:
 * A black background.
 * The Logo of the games the lables are meant for.
 
-Download link for the all-black lables: _**[Download Files](/Complete_Endlables/Black_Lables.zip)**_ (Print-ready)
+Download link for the all-black lables: _**[Download Files]()**_ (Print-ready)
 
 
 ### Basic Endlables (print Download)
@@ -42,21 +51,21 @@ Download link for the all-black lables: _**[Download Files](/Complete_Endlables/
 > Below is the Basic lable for Tetris Attack, to provide a visual example. This lable is, ofcourse, also part of this package.
 ![Basic lable example, Tetris Attack](/Complete_Endlables/Basic_Lables/Pal_Basic_Endlable_Tetris_Attack.png)
 
-The black lables contain:
+The Basic lables contain:
 * A black background.
 * The Logo of the games the lables are meant for.
 * The european Super nintendo Logo.
 * The word "PAL" written vertically on the right side of the lable.
 * A color code based on the publisher or how many copies were sold similar to the NTSC endlables.
 
-Download link for the Basic lables: _**[Download Files](/Complete_Endlables/Basic_Lables.zip)**_ (Print-ready)  
+Download link for the Basic lables: _**[Download Files]()**_ (Print-ready)  
 
 ### special background endlables (print Download)
 
-> Below is the black lable for The legend of Zelda: A link to the past, to provide a visual example. This lable is, ofcourse, also part of this package.
+> Below is the Special background lable for The legend of Zelda: A link to the past, to provide a visual example. This lable is, ofcourse, also part of this package.
 ![special background lable example, The legend of Zelda: A link to the past](/Complete_Endlables/Special_Background_Lables/Pal_Special_Background_Endlable_Link_To_The_Past.png)
 
-The black lables contain:
+The Special background lables contain:
 * A colored or image game background.
 * The Logo of the games the lables are meant for.
 * The european Super nintendo Logo.
@@ -64,12 +73,29 @@ The black lables contain:
 * A color code based on the publisher or how many copies were sold similar to the NTSC endlables.
 * A black background behind the Super nintendo logo, color coded strip and, the word "PAL"
 
-Download link for the Special-background lables: _**[Download Files](/Complete_Endlables/Special_Background_Lables.zip)**_  (Print-ready)
+Download link for the Special-background lables: _**[Download Files]()**_  (Print-ready)
+
+
+### Lable Customisation file (.XCF Download)
+
+the download link for lable customisation contains:
+* The .XCF file which has all customisable options along with centered logos for the listed games.
+* A folder containing all individual logos as PNGs.
+
+Download link for lable customisation: _**[Download Files]()**_ (.XCF) 
 
 ## Supported Games
 
-### Lable Customisation file
-The games that currently have a logo and thus, are supported for customisation, in alphabettical order, are:
+### games for special background end-lables (print Download)
+the games that are included in the print download for the [Special background Lables](#special-background-endlables-print-download), in alphabetical order, are:
+
+1. Donkey Kong Country
+2. Link to the Past
+3. Megaman X
+4. Super Mario World
+
+### games for lable Customisation file
+The games that currently have a logo and thus, are [supported for customisation](#lable-customisation-file-xcf-download), in alphabettical order, are:
 1. Actraiser
 2. Actraiser2
 3. Aladdin
@@ -91,13 +117,5 @@ The games that currently have a logo and thus, are supported for customisation, 
 
 > [!NOTE]
 > All of these games are included in the print download for: _**[All-black endlables](#all-black-endlables-print-download)**_ and _**[Basic endlables](#basic-endlables-print-download)**_. because of this these **do not** have their own list in this section
-
-### special background endlables (print Download)
-the games that are included in the print download for the [Special background Lables](#special-background-endlables-print-download), in alphabetical order, are:
-
-1. Donkey Kong Country
-2. Link to the Past
-3. Megaman X
-4. Super Mario World
 
 
