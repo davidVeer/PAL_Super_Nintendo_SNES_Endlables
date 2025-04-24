@@ -33,7 +33,10 @@ If you want to work on a specific game lable or export the current customisation
 
 ![Importing image gif](/Step-by-step/GIF/Showing_different_Game_Lables.gif)
 
+### Selecting Special Backgrounds
+If you want to switch out the background for a lable. Make sure the Game_Backgrounds layer group is unfolded. Next, hide all selected layers until the centre of the the lable is blank. Then, show the background you want to select for your lable. 
 
+![Importing image gif](/Step-by-step/GIF/Selecting_Special_Background.gif)
 
 ## Download links
 
