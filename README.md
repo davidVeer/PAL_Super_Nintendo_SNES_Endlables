@@ -95,7 +95,14 @@ If you want to switch out the background for a lable. Make sure the Game_Backgro
 
 ![Importing image gif](/README_Assets/Step-by-step/GIF/Selecting_Special_Background.gif)
 
+### Selecting different color codes
+As some might be aware, the NTSC Super Nintendo cartridges contain a color coded stripe near the top of the lable to indicate wether it was made by Nintendo (Red) or a Third Party (Purple), Some Cartridges even have a Gold colored stripe. This indicates the game is "Players Choice" (Gold) which means the game sold over 1 million Copies.  
 
+This feature can be shown or hidden depending on your preference. To do this, make sure the USA_SNES_Color_Code layer group is unfolded. Hide the colors that you don't want to display, and select the color you do want to display. If you do not wish to display any color, hide all colors or hide the entire Layer group
+
+![Importing image gif](/README_Assets/Step-by-step/GIF/Selecting_Different_Color_Codes.gif)
+
+### 
 
 ## Supported Games
 
