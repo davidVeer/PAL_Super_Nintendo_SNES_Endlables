@@ -24,8 +24,7 @@ The black lables contain:
 * A black background.
 * The Logo of the games the lables are meant for.
 
-Download link for the all-black lables: _**[Download Files](/README_Assets/Downloadable_Files/Black_Lables_PAL_SNES.zip)**_ (Print-ready)
-_**<a href="/README_Assets/Downloadable_Files/Black_Lables_PAL_SNES.zip" download>Download Files</a>**_
+Download link for the all-black lables: _**[Download Files](/README_Assets/Downloadable_Files/Black_Lables_PAL_SNES.zip "download")**_ (Print-ready)
 
 
 ### Basic Endlables (print Download)
