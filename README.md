@@ -27,7 +27,7 @@ For a list of all current included games for each link, see the [Supported Games
 
 ### All black endlables (print Download)
 
-> Below is the black lable for donkey kong country to provide a visual example. This lable is, however also part of this package.
+> Below is the black lable for Donkey Kong country, to provide a visual example. This lable is, ofcourse, also part of this package.
 ![Black lable example, Donkey Kong Country](/Complete_Endlables/Black_Lables/Pal_Black_Endlable_Donkey_Kong_Country.png)
 
 The black lables contain:
@@ -39,8 +39,8 @@ Download link for the all-black lables: _**[Download Files](/Complete_Endlables/
 
 ### Basic Endlables (print Download)
 
-> Below is the Basic lable for donkey kong country to provide a visual example. This lable is, however also part of this package.
-![Basic lable example, Donkey Kong Country](/Complete_Endlables/Basic_Lables/Pal_Basic_Endlable_Donkey_Kong_Country.png)
+> Below is the Basic lable for Tetris Attack, to provide a visual example. This lable is, ofcourse, also part of this package.
+![Basic lable example, Tetris Attack](/Complete_Endlables/Basic_Lables/Pal_Basic_Endlable_Tetris_Attack.png)
 
 The black lables contain:
 * A black background.
@@ -53,8 +53,8 @@ Download link for the Basic lables: _**[Download Files](/Complete_Endlables/Basi
 
 ### special background endlables (print Download)
 
-> Below is the black lable for donkey kong country to provide a visual example. This lable is, however also part of this package.
-![special background lable example, Donkey Kong Country](/Complete_Endlables/Special_Background_Lables/Pal_Special_Background_Endlable_Donkey_Kong_Country.png)
+> Below is the black lable for The legend of Zelda: A link to the past, to provide a visual example. This lable is, ofcourse, also part of this package.
+![special background lable example, The legend of Zelda: A link to the past](/Complete_Endlables/Special_Background_Lables/Pal_Special_Background_Endlable_Link_To_The_Past.png)
 
 The black lables contain:
 * A colored or image game background.
@@ -68,5 +68,36 @@ Download link for the Special-background lables: _**[Download Files](/Complete_E
 
 ## Supported Games
 
-> [!WARNING]
-> this section is not finished yet.
+### Lable Customisation file
+The games that currently have a logo and thus, are supported for customisation, in alphabettical order, are:
+1. Actraiser
+2. Actraiser2
+3. Aladdin
+4. Donkey Kong Country
+5. F-Zero
+6. Flashback
+7. Killer Instinct
+8. Link to the Past
+9. Megaman X
+10. Pac-Attack
+11. Secret of Evermore
+12. Secret of Mana
+13. Star Trek Deep Space Nine
+14. Starwing
+15. Streetfighter 2
+16. Super Mario World
+17. Terranigma
+18. Tetris Attack
+
+> [!NOTE]
+> All of these games are included in the print download for: _**[All-black endlables](#all-black-endlables-print-download)**_ and _**[Basic endlables](#basic-endlables-print-download)**_. because of this these **do not** have their own list in this section
+
+### special background endlables (print Download)
+the games that are included in the print download for the [Special background Lables](#special-background-endlables-print-download), in alphabetical order, are:
+
+1. Donkey Kong Country
+2. Link to the Past
+3. Megaman X
+4. Super Mario World
+
+
