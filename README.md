@@ -21,7 +21,12 @@ in order to download the .XCF file, all you have to do is follow [this link](#la
 
 #### adding Game logos
 
-assuming you have found an image of the logo from the game you'd like to add. the process is relatively straight forward. 
+assuming you have found an image of the logo from the game you'd like to add. the process is relatively straight forward. Drag the image into the software, make sure the Game logo layer group.
+
+![Importing image gif](/Step-by-step/GIF/Adding_PNG_To_Game_Logo_List.gif)
+
+it is possible you might want to resize the image if it is too large to fit into the lable. If this is the case, select the Scale or Resize tool and select the image, click the corner of the image and resize until is (somewhat) fits into the lable. Adjust as needed.
+![Importing image gif](/Step-by-step/GIF/Resising_Game_Logo_To_Fit_Lable.gif)
 
 ## Download links
 
