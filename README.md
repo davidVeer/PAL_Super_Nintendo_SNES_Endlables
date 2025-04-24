@@ -1,32 +1,39 @@
 # Pal Super Nintendo endlables
 An open source customisable endlable for Super Nintendo game cartridges
 
-## Usage
 
-### Download printing documents
+## Download printing documents
 
 if all you're looking for is a printable PDF file containing all current lables.
 Go to the [Download links](#download-links) section and click the link from the format you enjoy the most.
 
-### customise lable
+## customise lable
 
 If you own a game that is not on this list, or, you prefer some features to be shown while some others are hidden. You might have to add a game logo manually or edit the game lable template a little bit. This section aims to show how this works.
 
-#### prerequisites
+### prerequisites
 
-in order to follow this tutorial editing software capable of editting .XCF files needs to be installed on your Desktop or laptop. for this tutorial, the software used is GIMP. 
+In order to follow this tutorial editing software capable of editting .XCF files needs to be installed on your Desktop or laptop. for this tutorial, the software used is GIMP. 
 
-#### downloading the .XCF file
-in order to download the .XCF file, all you have to do is follow [this link](#lable-customisation-file-xcf-download) to download the file, along with a folder containing all game logos, directly.  
+### downloading the .XCF file
+In order to download the .XCF file, all you have to do is follow [this link](#lable-customisation-file-xcf-download) to download the file, along with a folder containing all game logos, directly.  
 
-#### adding Game logos
+### adding Game logos
 
-assuming you have found an image of the logo from the game you'd like to add. the process is relatively straight forward. Drag the image into the software, make sure the Game logo layer group.
+Assuming you have found an image of the logo from the game you'd like to add. the process is relatively straight forward. Drag the image into the software and make sure the the image is in the Game logo layer group.
 
 ![Importing image gif](/Step-by-step/GIF/Adding_PNG_To_Game_Logo_List.gif)
 
-it is possible you might want to resize the image if it is too large to fit into the lable. If this is the case, select the Scale or Resize tool and select the image, click the corner of the image and resize until is (somewhat) fits into the lable. Adjust as needed.
+It is possible you might want to resize the image if it is too large to fit into the lable. If this is the case, select the Scale or Resize tool and select the image, click the corner of the image and resize until is (somewhat) fits into the lable. Adjust as needed.
 ![Importing image gif](/Step-by-step/GIF/Resising_Game_Logo_To_Fit_Lable.gif)
+
+### switching out game lables
+
+If you want to work on a specific game lable or export the current customisation to PNG you can switch out the current Logo for a different one relatively simply. Make sure the Game_Logos layer group is unfolded. After that, all that needs to happen is to hide the layer containing the current logo, and show the layer containing the game logo you want to work on.
+
+![Importing image gif](/Step-by-step/GIF/Showing_different_Game_Lables.gif)
+
+
 
 ## Download links
 
