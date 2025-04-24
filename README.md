@@ -102,7 +102,16 @@ This feature can be shown or hidden depending on your preference. To do this, ma
 
 ![Importing image gif](/README_Assets/Step-by-step/GIF/Selecting_Different_Color_Codes.gif)
 
-### 
+### Selecting different Templay overlay
+With focus being modularity with this project, A couple of layers were made to mix-and-match different parts of the lable overlay to your own preference.  
+To do this, make sure the Lable_Design layer group is unfolded. Hide the features that you don't want to display, and select the features you do want to display. If you do not wish to display any of the available features, hide all features or hide the entire Layer group.
+
+![Importing image gif](/README_Assets/Step-by-step/GIF/Selecting_Different_Template_Overlay.gif)
+
+### Exporting a custom lable to PNG
+in order to export a custom lable to PNG, Go to "file" in the top left corner of the screen, and select "Export As...". Next, select the location you want the lable to be saved to, enter a name for the file, and press "Export". A screen wil pop up, once again, press the option "Export". the lable should now be exported as a PNG file in the chosen folder.
+
+![Importing image gif](/README_Assets/Step-by-step/GIF/Exporting_Final_Lables_To_PNG.gif)
 
 ## Supported Games
 
