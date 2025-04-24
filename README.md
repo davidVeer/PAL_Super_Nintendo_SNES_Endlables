@@ -26,7 +26,6 @@ For a list of all current included games for each link, see the [Supported Games
 
 ### All black endlables (print Download)
 
-> [!NOTE]
 > Below is the black lable for donkey kong country to provide a visual example. This lable is, however also part of this package.
 ![Black lable example, Donkey Kong Country](/Complete_Endlables/Black_Lables/Pal_Black_Endlable_Donkey_Kong_Country.png)
 
@@ -34,14 +33,12 @@ For a list of all current included games for each link, see the [Supported Games
 
 ### Basic Endlables (print Download)
 
-> [!NOTE]
 > Below is the Basic lable for donkey kong country to provide a visual example. This lable is, however also part of this package.
 ![Basic lable example, Donkey Kong Country](/Complete_Endlables/Basic_Lables/Pal_Basic_Endlable_Donkey_Kong_Country.png)
 
 
 ### special background endlables (print Download)
 
-> [!NOTE]
 > Below is the black lable for donkey kong country to provide a visual example. This lable is, however also part of this package.
 ![special background lable example, Donkey Kong Country](/Complete_Endlables/Special_Background_Lables/Pal_Special_Background_Endlable_Donkey_Kong_Country.png)
 
