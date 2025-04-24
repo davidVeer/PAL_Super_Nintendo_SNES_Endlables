@@ -11,7 +11,7 @@ The print download links contain a zip file which includes:
 * A folder containing all individual lables as PNGs. These can be used to print out lables for just the games you want or have.
 
 > [!IMPORTANT] 
-> The zip file that can be downloaded does not yet contain a PDF file. It's only exported Images for now
+> The zip files that can be downloaded do not yet contain a PDF file. It's only exported Images for now
 
 For a list of all current included games for each link, see the [Supported Games](#supported-games) section.
 
