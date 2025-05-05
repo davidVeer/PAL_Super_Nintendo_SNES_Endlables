@@ -146,4 +146,22 @@ The games that currently have a logo and thus, are [supported for customisation]
 > [!NOTE]
 > All of these games are included in the print download for: _**[All-black endlables](#all-black-endlables-print-download)**_ and _**[Basic endlables](#basic-endlables-print-download)**_. because of this these **do not** have their own list in this section
 
+# Roadmap
 
+
+## checklist
+- [ ] add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
+
+## Planned supported games
+- [ ]
+- [ ] 
+- [ ]
+- [ ] 
+- [ ]
+- [ ] 
+- [ ]
+- [ ] 
+- [ ]
+- [ ] 
+- [ ]
+- [ ] 
