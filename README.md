@@ -153,8 +153,8 @@ The games that currently have a logo and thus, are [supported for customisation]
 - [ ] add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
 
 ## Planned supported games
-- [ ]
-- [ ] 
+- [x] test
+- [ ] test 2
 - [ ]
 - [ ] 
 - [ ]
