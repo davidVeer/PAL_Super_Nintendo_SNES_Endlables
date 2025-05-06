@@ -124,24 +124,24 @@ the games that are included in the print download for the [Special background La
 
 ## games for lable Customisation file
 The games that currently have a logo and thus, are [supported for customisation](#lable-customisation-file-xcf-download), in alphabettical order, are:
-1. Actraiser
-2. Actraiser2
-3. Aladdin
-4. Donkey Kong Country
-5. F-Zero
-6. Flashback
-7. Killer Instinct
-8. Link to the Past
-9. Megaman X
-10. Pac-Attack
-11. Secret of Evermore
-12. Secret of Mana
-13. Star Trek Deep Space Nine
-14. Starwing
-15. Streetfighter 2
-16. Super Mario World
-17. Terranigma
-18. Tetris Attack
+1. Act Raiser (3P)
+2. Act Raiser 2 (3P)
+3. Aladdin (3P)
+4. Donkey Kong Country (PC/NIN)
+5. Flashback (3P)
+6. F-Zero (PC)
+7. Killer Instinct (NIN)
+8. Legend Of Zelfda: A Link To The Past (PC/NIN)
+9. Mega Man X (3P)
+10. Pac-Attack (3P)
+11. Secret Of Evermore (3P)
+12. Secret Of Mana (3P)
+13. Star Trek Deep Space Nine: Crossroads Of Time (3P)
+14. Starwing (NIN)
+15. Streetfighter 2 (3P)
+16. Super Mario World (PC/NIN)
+17. Terranigma (3P)
+18. Tetris Attack (NIN)
 
 > [!NOTE]
 > All of these games are included in the print download for: _**[All-black endlables](#all-black-endlables-print-download)**_ and _**[Basic endlables](#basic-endlables-print-download)**_. because of this these **do not** have their own list in this section
@@ -157,16 +157,18 @@ The games that currently have a logo and thus, are [supported for customisation]
 - [ ] setup a "Buy me a coffee link" for if people want to support the project :)
 
 ## Planned supported games
-- [ ] Chaos Enginge  
-- [ ] Disney's The Lion King  
-- [ ] Dragon's Lair  
-- [ ] Earthworm Jim  
-- [ ] Gods  
-- [ ] Illusion of Time  
-- [ ] Jurassic Park  
-- [ ] Jurassic Park Part 2: The Chaos Continues  
-- [ ] Lord Of the Rings  
-- [ ] Mystic Quest Legend  
-- [ ] Run Saber  
-- [ ] Super Castlevania IV  
-- [ ] Super NES Nintendo Scope 6  
+
+### Personal Game Library
+- [ ] Chaos Enginge (3P)
+- [ ] Disney's The Lion King (3P)   
+- [ ] Dragon's Lair (3P) 
+- [ ] Earthworm Jim (3P) 
+- [ ] Gods (3P)
+- [ ] Illusion of Time (NIN)
+- [ ] Jurassic Park (3P)
+- [ ] Jurassic Park Part 2: The Chaos Continues (3P)  
+- [ ] Lord Of the Rings (3P)
+- [ ] Mystic Quest Legend (3P)
+- [ ] Run Saber (3P)
+- [ ] Super Castlevania IV (3P)  
+- [ ] Super NES Nintendo Scope 6 (NIN)  
