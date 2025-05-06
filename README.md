@@ -173,3 +173,22 @@ The games that currently have a logo and thus, are [supported for customisation]
 - [ ] Run Saber (3P)
 - [ ] Super Castlevania IV (3P)  
 - [ ] Super NES Nintendo Scope 6 (NIN)  
+
+### Player's choice
+- [X] Donkey Kong Country
+- [ ] Donkey Kong Country 2: Diddy's Kong Quest
+- [ ] Donkey Kong Country 3: Dixie Kong's Double Trouble!
+- [X] F-Zero
+- [ ] Mario Paint
+- [ ] SimCity
+- [ ] Super Bomberman 2
+- [ ] Super Mario All-Stars
+- [ ] Super Mario Kart
+- [X] Super Mario World
+- [ ] Super Mario World 2: Yoshi's Island
+- [ ] Super Metroid
+- [ ] Super Star Wars
+- [ ] Super Street Fighter II: The New Challengers
+- [ ] Tetris & Dr. Mario
+- [ ] Tetris 2
+- [X] The Legend of Zelda: A Link to the Past
