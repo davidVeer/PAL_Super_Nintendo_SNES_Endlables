@@ -150,7 +150,11 @@ The games that currently have a logo and thus, are [supported for customisation]
 
 
 ## checklist
-- [ ] add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
+- [ ] Expand supported games: add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
+- [ ] Increase ease of customisation: add Publisher color-code indication to all games mentioned in Readme
+- [ ] Improve Download links: Zipped Files with print ready PDF's (for now only exported lables are available)
+- [ ] expand tutorial: using word to create custom print sheet
+- [ ] setup a "Buy me a coffee link" for if people want to support the project :)
 
 ## Planned supported games
 - [ ] Chaos Enginge  
