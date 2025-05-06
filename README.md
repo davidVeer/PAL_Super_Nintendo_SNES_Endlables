@@ -24,7 +24,7 @@ The black lables contain:
 * A black background.
 * The Logo of the games the lables are meant for.
 
-Download link for the all-black lables: _**[Download Files](/README_Assets/Downloadable_Files/Black_Lables_PAL_SNES.zip)**_ (Print-ready)
+Download link for the all-black lables: _**[Download Files](/Downloadable_Files/Black_Lables_PAL_SNES.zip)**_ (Print-ready)
 
 
 ## Basic Endlables (print Download)
@@ -39,7 +39,7 @@ The Basic lables contain:
 * The word "PAL" written vertically on the right side of the lable.
 * A color code based on the publisher or how many copies were sold similar to the NTSC endlables.
 
-Download link for the Basic lables: _**[Download Files](/README_Assets/Downloadable_Files/Basic_Lables_PAL_SNES.zip)**_ (Print-ready)  
+Download link for the Basic lables: _**[Download Files](/Downloadable_Files/Basic_Lables_PAL_SNES.zip)**_ (Print-ready)  
 
 ## special background endlables (print Download)
 
@@ -54,7 +54,7 @@ The Special background lables contain:
 * A color code based on the publisher or how many copies were sold similar to the NTSC endlables.
 * A black background behind the Super nintendo logo, color coded strip and, the word "PAL"
 
-Download link for the Special-background lables: _**[Download Files](/README_Assets/Downloadable_Files/Special_Background_Lables_PAL_SNES.zip)**_  (Print-ready)
+Download link for the Special-background lables: _**[Download Files](/Downloadable_Files/Special_Background_Lables_PAL_SNES.zip)**_  (Print-ready)
 
 
 ## Lable Customisation file (.XCF Download)
@@ -63,7 +63,7 @@ the download link for lable customisation contains:
 * The .XCF file which has all customisable options along with centered logos for the listed games.
 * A folder containing all individual logos as PNGs.
 
-Download link for lable customisation: _**[Download Files](/README_Assets/Downloadable_Files/PAL_SNES_Lable_Customisation.zip)**_ (.XCF) 
+Download link for lable customisation: _**[Download Files](/Downloadable_Files/PAL_SNES_Lable_Customisation.zip)**_ (.XCF) 
 # customise lable
 
 If you own a game that is not on this list, or, you prefer some features to be shown while some others are hidden. You might have to add a game logo manually or edit the game lable template a little bit. This section aims to show how this works.
