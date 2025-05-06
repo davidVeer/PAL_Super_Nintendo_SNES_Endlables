@@ -147,14 +147,36 @@ The games that currently have a logo and thus, are [supported for customisation]
 > All of these games are included in the print download for: _**[All-black endlables](#all-black-endlables-print-download)**_ and _**[Basic endlables](#basic-endlables-print-download)**_. because of this these **do not** have their own list in this section
 
 # Publisher Color Codes
+like discussed in [Selecting different color codes](#selecting-different-color-codes) nintendo added a Color coded strip to the endlable in the USA-NTSC territory. This section lists the games which are included in the current version of the project (Version 1.1.0) based on their color code. Keep in mind that all Player's choice games have both a publisher and playe's choice version of their lables. this means that these games are listed in both of their respective catagories. 
 
 
+## Nintendo Published (Red)
+- Donkey Kong Country
+- F-Zero
+- Killer Instinct
+- Legend Of Zelda: A Link To The Past
+- Starwing
+- Super Mario World
+- Tetris Attack
 
-## Nintendo Published
+## Third party Published (Purple)
+- Act Raiser
+- Act Raiser 2
+- Aladdin
+- Flashback
+- Mega Man X
+- Pac-Attack
+- Secret Of Evermore
+- Secret Of Mana
+- Star Trek Deep Space Nine: Crossroads Of Time
+- Streetfighter 2
+- Terranigma
 
-## Third party Published
-
-## Players Choice
+## Players Choice (Gold/Yellow)
+- Donkey Kong Country
+- F-Zero
+- Super Mario World
+- The Legend of Zelda: A Link to the Past
 
 
 
