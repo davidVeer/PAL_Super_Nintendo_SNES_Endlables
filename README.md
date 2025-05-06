@@ -153,15 +153,16 @@ The games that currently have a logo and thus, are [supported for customisation]
 - [ ] add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
 
 ## Planned supported games
-- [x] test
-- [ ] test 2
-- [ ]
-- [ ] 
-- [ ]
-- [ ] 
-- [ ]
-- [ ] 
-- [ ]
-- [ ] 
-- [ ]
-- [ ] 
+- [ ] Chaos Enginge  
+- [ ] Disney's The Lion King  
+- [ ] Dragon's Lair  
+- [ ] Earthworm Jim  
+- [ ] Gods  
+- [ ] Illusion of Time  
+- [ ] Jurassic Park  
+- [ ] Jurassic Park Part 2: The Chaos Continues  
+- [ ] Lord Of the Rings  
+- [ ] Mystic Quest Legend  
+- [ ] Run Saber  
+- [ ] Super Castlevania IV  
+- [ ] Super NES Nintendo Scope 6  
