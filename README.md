@@ -97,7 +97,8 @@ If you want to switch out the background for a lable. Make sure the Game_Backgro
 ## Selecting different color codes
 As some might be aware, the NTSC Super Nintendo cartridges contain a color coded stripe near the top of the lable to indicate wether it was made by Nintendo (Red) or a Third Party (Purple), Some Cartridges even have a Gold colored stripe. This indicates the game is "Players Choice" (Gold) which means the game sold over 1 million Copies.  
 
-This feature can be shown or hidden depending on your preference. To do this, make sure the USA_SNES_Color_Code layer group is unfolded. Hide the colors that you don't want to display, and select the color you do want to display. If you do not wish to display any color, hide all colors or hide the entire Layer group
+This feature can be shown or hidden depending on your preference. To do this, make sure the USA_SNES_Color_Code layer group is unfolded. Hide the colors that you don't want to display, and select the color you do want to display. If you do not wish to display any color, hide all colors or hide the entire Layer group.  
+When customising games it might be usefull to have a look at [Publisher Color Codes](#publisher-color-codes) 
 
 ![select color gif](/README_Assets/Step-by-step/GIF/Selecting_Different_Color_Codes.gif)
 
@@ -184,7 +185,7 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 
 ## checklist
 - [ ] Expand supported games: add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
-- [ ] Expand supported games: add all player's choice games (See [Planned Supported Games (player's choice)](#planned-supported-games))
+- [ ] Expand supported games: add all player's choice games (See [Planned Supported Games (player's choice)](#players-choice))
 - [ ] Increase ease of customisation: add Publisher color-code indication to all games mentioned in Readme
 - [ ] Improve Download links: Zipped Files with print ready PDF's (for now only exported lables are available)
 - [ ] expand tutorial: using word to create custom print sheet
