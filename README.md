@@ -115,37 +115,32 @@ in order to export a custom lable to PNG, Go to "file" in the top left corner of
 
 # Supported Games
 
-## games for special background end-lables (print Download)
-the games that are included in the print download for the [Special background Lables](#special-background-endlables-print-download), in alphabetical order, are:
+The games that currently have a logo and are supported for both customisation and download (unless specified otherwhise below), are (in aphabetical order):
+1. Act Raiser
+2. Act Raiser 2
+3. Aladdin
+4. Donkey Kong Country
+5. Flashback
+6. F-Zero
+7. Killer Instinct
+8. Legend Of Zelda: A Link To The Past
+9. Mega Man X
+10. Pac-Attack
+11. Secret Of Evermore
+12. Secret Of Mana
+13. Star Trek Deep Space Nine: Crossroads Of Time
+14. Starwing
+15. Streetfighter 2
+16. Super Mario World
+17. Terranigma
+18. Tetris Attack
 
+### special background download
+most games do not contain a special background version. the games currently supported with the download link are:
 1. Donkey Kong Country
-2. Link to the Past
-3. Megaman X
+2. Legend Of Zelda: A Link To The Past
+3. Mega Man X
 4. Super Mario World
-
-## games for lable Customisation file
-The games that currently have a logo and thus, are [supported for customisation](#lable-customisation-file-xcf-download), in alphabettical order, are:
-1. Act Raiser (3P)
-2. Act Raiser 2 (3P)
-3. Aladdin (3P)
-4. Donkey Kong Country (PC/NIN)
-5. Flashback (3P)
-6. F-Zero (PC)
-7. Killer Instinct (NIN)
-8. Legend Of Zelfda: A Link To The Past (PC/NIN)
-9. Mega Man X (3P)
-10. Pac-Attack (3P)
-11. Secret Of Evermore (3P)
-12. Secret Of Mana (3P)
-13. Star Trek Deep Space Nine: Crossroads Of Time (3P)
-14. Starwing (NIN)
-15. Streetfighter 2 (3P)
-16. Super Mario World (PC/NIN)
-17. Terranigma (3P)
-18. Tetris Attack (NIN)
-
-> [!NOTE]
-> All of these games are included in the print download for: _**[All-black endlables](#all-black-endlables-print-download)**_ and _**[Basic endlables](#basic-endlables-print-download)**_. because of this these **do not** have their own list in this section
 
 # Publisher Color Codes
 like discussed in [Selecting different color codes](#selecting-different-color-codes) nintendo added a Color coded strip to the endlable in the USA-NTSC territory. This section lists the games which are included in the current version of the project (Version 1.1.0) based on their color code. Keep in mind that all Player's choice games have both a publisher and playe's choice version of their lables. this means that these games are listed in both of their respective catagories. 
