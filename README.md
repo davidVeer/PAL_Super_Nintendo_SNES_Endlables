@@ -119,21 +119,34 @@ The games that currently have a logo and are supported for both customisation an
 1. Act Raiser
 2. Act Raiser 2
 3. Aladdin
-4. Donkey Kong Country
-5. Flashback
-6. F-Zero
-7. Killer Instinct
-8. Legend Of Zelda: A Link To The Past
-9. Mega Man X
-10. Pac-Attack
-11. Secret Of Evermore
-12. Secret Of Mana
-13. Star Trek Deep Space Nine: Crossroads Of Time
-14. Starwing
-15. Streetfighter 2
-16. Super Mario World
-17. Terranigma
-18. Tetris Attack
+4. Chaos Engine
+5. Disney's The Lion King
+6. Donkey Kong Country
+7. Dragon's Lair
+8. Earthworm Jim
+9. F-Zero
+10. Flashback
+11. Gods
+12. Illusion of Time
+13. Jurassic Park
+14. Jurassic Park Part 2: The Chaos Continues
+15. Killer Instinct
+16. Legend Of Zelda: A Link To The Past
+17. Lord Of the Rings
+18. Mega Man X
+19. Mystic Quest Legend
+20. Pac-Attack
+21. Run Saber
+22. Secret Of Evermore
+23. Secret Of Mana
+24. Star Trek Deep Space Nine: Crossroads Of Time
+25. Starwing
+26. Streetfighter 2
+27. Super Castlevania IV
+28. Super Mario World
+29. Super NES Nintendo Scope 6
+30. Terranigma
+31. Tetris Attack
 
 ### special background download
 most games do not contain a special background version. the games currently supported with the download link are:
@@ -149,24 +162,38 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 ## Nintendo Published (Red)
 - Donkey Kong Country
 - F-Zero
+- Illusion of Time
 - Killer Instinct
 - Legend Of Zelda: A Link To The Past
 - Starwing
 - Super Mario World
+- Super NES Nintendo Scope 6
 - Tetris Attack
 
 ## Third party Published (Purple)
 - Act Raiser
 - Act Raiser 2
 - Aladdin
+- Chaos Engine
+- Disney's The Lion King
+- Dragon's Lair
+- Earthworm Jim
 - Flashback
+- Gods
+- Jurassic Park
+- Jurassic Park Part 2: The Chaos Continues
+- Lord Of the Rings
 - Mega Man X
+- Mystic Quest Legend
 - Pac-Attack
+- Run Saber
 - Secret Of Evermore
 - Secret Of Mana
 - Star Trek Deep Space Nine: Crossroads Of Time
 - Streetfighter 2
+- Super Castlevania IV
 - Terranigma
+
 
 ## Players Choice (Gold/Yellow)
 - Donkey Kong Country
@@ -175,11 +202,10 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 - The Legend of Zelda: A Link to the Past
 
 
-
 # Roadmap
 
 ## checklist
-- [ ] Expand supported games: add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
+- [X] Expand supported games: add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
 - [ ] Expand supported games: add all player's choice games (See [Planned Supported Games (player's choice)](#players-choice))
 - [ ] Increase ease of customisation: add Publisher color-code indication to all games mentioned in Readme
 - [ ] Improve Download links: Zipped Files with print ready PDF's (for now only exported lables are available)
@@ -189,19 +215,19 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 ## Planned supported games
 
 ### Personal Game Library
-- [ ] Chaos Enginge (3P)
-- [ ] Disney's The Lion King (3P)   
-- [ ] Dragon's Lair (3P) 
-- [ ] Earthworm Jim (3P) 
-- [ ] Gods (3P)
-- [ ] Illusion of Time (NIN)
-- [ ] Jurassic Park (3P)
-- [ ] Jurassic Park Part 2: The Chaos Continues (3P)  
-- [ ] Lord Of the Rings (3P)
-- [ ] Mystic Quest Legend (3P)
-- [ ] Run Saber (3P)
-- [ ] Super Castlevania IV (3P)  
-- [ ] Super NES Nintendo Scope 6 (NIN)  
+- [X] Chaos Enginge (3P)
+- [X] Disney's The Lion King (3P)   
+- [X] Dragon's Lair (3P) 
+- [X] Earthworm Jim (3P) 
+- [X] Gods (3P)
+- [X] Illusion of Time (NIN)
+- [X] Jurassic Park (3P)
+- [X] Jurassic Park Part 2: The Chaos Continues (3P)  
+- [X] Lord Of the Rings (3P)
+- [X] Mystic Quest Legend (3P)
+- [X] Run Saber (3P)
+- [X] Super Castlevania IV (3P)  
+- [X] Super NES Nintendo Scope 6 (NIN)  
 
 ### Player's choice
 - [X] Donkey Kong Country
