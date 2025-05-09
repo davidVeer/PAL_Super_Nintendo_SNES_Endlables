@@ -207,10 +207,11 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 ## checklist
 - [X] Expand supported games: add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
 - [ ] Expand supported games: add all player's choice games (See [Planned Supported Games (player's choice)](#players-choice))
-- [ ] Increase ease of customisation: add Publisher color-code indication to all games mentioned in Readme
+- [X] Increase ease of customisation: add Publisher color-code indication to all games mentioned in Readme
 - [ ] Improve Download links: Zipped Files with print ready PDF's (for now only exported lables are available)
 - [ ] expand tutorial: using word to create custom print sheet
 - [ ] setup a "Buy me a coffee link" for if people want to support the project :)
+- [ ] Add Player's choice variant to Basic & Special Background Zip files 
 
 ## Planned supported games
 
