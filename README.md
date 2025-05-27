@@ -210,10 +210,11 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 - [X] Expand supported games: add remainding games from personal library. (See [Planned Supported Games](#planned-supported-games))
 - [ ] Expand supported games: add all player's choice games (See [Planned Supported Games (player's choice)](#players-choice))
 - [X] Increase ease of customisation: add Publisher color-code indication to all games mentioned in Readme
-- [ ] Improve Download links: Zipped Files with print ready PDF's (for now only exported lables are available)
+- [X] Improve Download links: Zipped Files with print ready PDF's (for now only exported lables are available)
 - [ ] expand tutorial: using word to create custom print sheet
 - [ ] setup a "Buy me a coffee link" for if people want to support the project :)
 - [ ] Add Player's choice variant to Basic & Special Background Zip files 
+- [ ] Add all Nintendo Published games (See [Planned Supported Games (Nintendo Published)](#nintendo-published))
 
 ## Planned supported games
 
@@ -234,6 +235,8 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 - [X] Super NES Nintendo Scope 6 (NIN)  
 
 ### Player's choice
+> this list is taken from the [Nintendo Fandom article](https://nintendo.fandom.com/wiki/Player%27s_Choice#Super_Nintendo_Entertainment_System) on all player's choice games for the Super Nintendo.
+
 - [X] Donkey Kong Country
 - [ ] Donkey Kong Country 2: Diddy's Kong Quest
 - [ ] Donkey Kong Country 3: Dixie Kong's Double Trouble!
@@ -251,3 +254,70 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 - [ ] Tetris & Dr. Mario
 - [ ] Tetris 2
 - [X] The Legend of Zelda: A Link to the Past
+
+### Nintendo Published
+> This list is taken from the [Wikipedia article](https://en.m.wikipedia.org/wiki/List_of_Super_Nintendo_Entertainment_System_games#I) on all games published for the Super Nintendo.  
+This takes all games published by Nintendo in PAL territories, regardless of wether they were published by 3rd parties in other regions.
+
+
+- [ ] Arkanoid: Doh It Again  
+- [ ] Battle Clash  
+- [ ] Battletoads in Battlemaniacs  
+- [ ] Bubsy in Claws Encounters of the Furred Kind  
+- [ ] Donald in Maui Mallard  
+- [X] Donkey Kong Country  
+- [ ] Donkey Kong Country 2: Diddy's Kong Quest  
+- [ ] Donkey Kong Country 3: Dixie Kong's Double Trouble!  
+- [X] F-Zero  
+- [ ] Harvest Moon  
+- [X] Illusion of Time  
+- [ ] Kid Klown in Crazy Chase  
+- [X] Killer Instinct  
+- [ ] Kirby's Dream Course  
+- [ ] Kirby's Fun Pak  
+- [ ] Kirby's Ghost Trap  
+- [ ] Lufia  
+- [ ] Mario Paint  
+- [ ] Mega Man X  
+- [ ] Metal Combat: Falcon's Revenge  
+- [ ] Mystic Quest Legend  
+- [ ] Nigel Mansell's World Championship  
+- [ ] Pac-Man 2: The New Adventures  
+- [ ] Pilotwings  
+- [ ] Pinocchio  
+- [ ] Plok  
+- [ ] Secret of Evermore  
+- [ ] Secret of Mana  
+- [ ] SimCity  
+- [ ] Soccer Shootout  
+- [ ] Space Invaders  
+- [X] Starwing  
+- [ ] Street Fighter Alpha 2  
+- [ ] Stunt Race FX  
+- [ ] Super Ghouls 'n Ghosts  
+- [ ] Super Hockey  
+- [ ] Super International Cricket  
+- [ ] Super Mario All-Stars  
+- [ ] Super Mario All-Stars + Super Mario World  
+- [ ] Super Mario Kart  
+- [X] Super Mario World  
+- [ ] Super Mario World 2: Yoshi's Island  
+- [ ] Super Metroid  
+- [ ] Super Pinball: Behind the Mask  
+- [ ] Super Punch-Out!!  
+- [ ] Super R-Type  
+- [X] Super Scope 6  
+- [ ] Super Soccer  
+- [ ] Super Tennis  
+- [ ] Tetris & Dr. Mario  
+- [ ] Tetris 2  
+- [X] Tetris Attack  
+- [ ] Terranigma  
+- [X] The Legend of Zelda: A Link to the Past  
+- [ ] Toy Story  
+- [ ] Unirally  
+- [ ] Vegas Stakes  
+- [ ] Wario's Woods  
+- [ ] Winter Gold  
+- [ ] World League Basketball  
+- [ ] Yoshi's Safari  
