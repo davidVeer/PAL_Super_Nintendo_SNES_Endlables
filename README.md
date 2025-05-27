@@ -152,9 +152,9 @@ The games that currently have a logo and are supported for both customisation an
 ### special background download
 most games do not contain a special background version. the games currently supported with the download link are:
 1. Donkey Kong Country
-2. Legend Of Zelda: A Link To The Past
-3. Mega Man X
-4. Super Mario World
+1. Legend Of Zelda: A Link To The Past
+1. Mega Man X
+1. Super Mario World
 
 # Publisher Color Codes
 like discussed in [Selecting different color codes](#selecting-different-color-codes) nintendo added a Color coded strip to the endlable in the USA-NTSC territory. This section lists the games which are included in the current version of the project (Version 1.1.0) based on their color code. Keep in mind that all Player's choice games have both a publisher and playe's choice version of their lables. this means that these games are listed in both of their respective catagories. 
