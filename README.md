@@ -117,36 +117,37 @@ in order to export a custom lable to PNG, Go to "file" in the top left corner of
 
 The games that currently have a logo and are supported for both customisation and download (unless specified otherwhise below), are (in aphabetical order):
 1. Act Raiser
-2. Act Raiser 2
-3. Aladdin
-4. Chaos Engine
-5. Disney's The Lion King
-6. Donkey Kong Country
-7. Dragon's Lair
-8. Earthworm Jim
-9. F-Zero
-10. Flashback
-11. Gods
-12. Illusion of Time
-13. Jurassic Park
-14. Jurassic Park Part 2: The Chaos Continues
-15. Killer Instinct
-16. Legend Of Zelda: A Link To The Past
-17. Lord Of the Rings
-18. Mega Man X
-19. Mystic Quest Legend
-20. Pac-Attack
-21. Run Saber
-22. Secret Of Evermore
-23. Secret Of Mana
-24. Star Trek Deep Space Nine: Crossroads Of Time
-25. Starwing
-26. Streetfighter 2
-27. Super Castlevania IV
-28. Super Mario World
-29. Super NES Nintendo Scope 6
-30. Terranigma
-31. Tetris Attack
+1. Act Raiser 2
+1. Aladdin
+1. Chaos Engine
+1. Disney's The Lion King
+1. Donkey Kong Country
+1. Dragon's Lair
+1. Earthworm Jim
+1. F-Zero
+1. Flashback
+1. Gods
+1. Illusion of Time
+1. Jurassic Park
+1. Jurassic Park Part 2: The Chaos Continues
+1. Killer Instinct
+1. Legend Of Zelda: A Link To The Past
+1. Lord Of the Rings
+1. Mega Man X
+1. Mystic Quest Legend
+1. Pac-Attack
+1. Prince Of Persia
+1. Run Saber
+1. Secret Of Evermore
+1. Secret Of Mana
+1. Star Trek Deep Space Nine: Crossroads Of Time
+1. Starwing
+1. Streetfighter 2
+1. Super Castlevania IV
+1. Super Mario World
+1. Super NES Nintendo Scope 6
+1. Terranigma
+1. Tetris Attack
 
 ### special background download
 most games do not contain a special background version. the games currently supported with the download link are:
@@ -186,6 +187,7 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 - Mega Man X
 - Mystic Quest Legend
 - Pac-Attack
+- Prince Of Persia
 - Run Saber
 - Secret Of Evermore
 - Secret Of Mana
@@ -226,6 +228,7 @@ like discussed in [Selecting different color codes](#selecting-different-color-c
 - [X] Jurassic Park Part 2: The Chaos Continues (3P)  
 - [X] Lord Of the Rings (3P)
 - [X] Mystic Quest Legend (3P)
+- [X] Prince Of Persia (3P)
 - [X] Run Saber (3P)
 - [X] Super Castlevania IV (3P)  
 - [X] Super NES Nintendo Scope 6 (NIN)  
